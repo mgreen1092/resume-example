@@ -1,0 +1,22 @@
+{
+  "name": "morganegreen-resume",
+  "version": "1.0.0",
+  "description": "(1)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mgreen1092?tab=repositories"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+
+}
